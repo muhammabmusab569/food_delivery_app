@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "984571930732",
+    "project_id": "e-commrace-app-830af",
+    "storage_bucket": "e-commrace-app-830af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984571930732:android:b34e74b60464618e31d049",
+        "android_client_info": {
+          "package_name": "com.example.e_commrace_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984571930732-si0bqj4qsdohtd25ht7eo5ecublop56j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_commrace_app",
+            "certificate_hash": "afdf73794cc097cd731b1c28355da343986659d4"
+          }
+        },
+        {
+          "client_id": "984571930732-t7bb45vkba1jal4j5kb8lfc8quag34ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVnNWv3q9lln_SASCklslBigQaPVTSYls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984571930732-t7bb45vkba1jal4j5kb8lfc8quag34ej.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984571930732-euqtjqo8j88807tstrjvll61qjakfaj3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCommraceApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984571930732:android:51e3a188792fe6c631d049",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984571930732-t7bb45vkba1jal4j5kb8lfc8quag34ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVnNWv3q9lln_SASCklslBigQaPVTSYls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984571930732-t7bb45vkba1jal4j5kb8lfc8quag34ej.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984571930732-euqtjqo8j88807tstrjvll61qjakfaj3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCommraceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
